@@ -14,3 +14,9 @@
   }
 }
 
+@font-face {
+	font-family: "gilroy";
+	/* src: url("CustomFont.eot"); */
+	src: url("/tipografias/gilroy-extrabold_6939af7b8e2c6158b92c542efc7fcc9b.otf") format("otf"),
+	
+	}
